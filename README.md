@@ -47,7 +47,7 @@ I enjoy building analytics that end in a clear decision, and learning in public.
 |---|---|
 | 🎯 **Target role** | Data Analyst / BI Analyst / Business Analyst |
 | 🧰 **Core stack** | SQL · MySQL · Python · dbt · Power BI (DAX) |
-| 🎓 **Education** | B.Tech CSE (AI/ML), Alliance University, 2022–2026, CGPA 9.0 |
+| 🎓 **Education** | B.Tech CSE (AI/ML), Alliance University, 2022–2026, CGPA 8.9 |
 | 📜 **Training** | Data Analyst course, ExcelR |
 | 📍 **Location** | Bangalore, India |
 | 📬 **Contact** | kalamallavasi@gmail.com |
